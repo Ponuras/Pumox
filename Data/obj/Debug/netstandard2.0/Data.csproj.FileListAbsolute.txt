@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\pumox\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\Admin\source\repos\pumox\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\Admin\source\repos\pumox\Data\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\pumox\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\pumox\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
